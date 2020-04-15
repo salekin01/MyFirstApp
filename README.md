@@ -1,5 +1,5 @@
 <h2>MyFiestApp</h2>
-Practicing android application with kotlin.
+Experimental: Android application with kotlin.
 
 <h3>Technolgy & tools Used</h3>
 	<ul>
